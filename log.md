@@ -1,12 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: Friday, June 29, 2018
+## 180629 - Day 0
 
-**Today's Progress**: Learned about 100 Days of Code (Thanks, Santo!) and began planning and setting up my environment.
+### Today's Progress
 
-**Thoughts**: Excited to be doing this with my new friends Santo and Tim! Looking forward to building more of a developer mindset and improving my skills in data-processing languages (SQL, Python, R) and the methodologies that go along with them.
+Learned about 100 Days of Code (Thanks, Santo!) and began planning and setting up my environment.
 
-**Links to work**:  
+### Thoughts
+
+Excited to be doing this with my new friends Santo and Tim! Looking forward to building more of a developer mindset and improving my skills in data-processing languages (SQL, Python, R) and the methodologies that go along with them.
+
+### Links to work
+
 [100 Days of Code](http://www.100daysofcode.com)  
 
 [//]: # (This is a hidden comment.)
