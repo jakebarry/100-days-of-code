@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## 180704 - R1D2
+
+### Today's Progress
+
+Continued work on friend's website (yaml, css, php).
+
+### Thoughts
+
+Excited to finish this website so I can get back into Python!
+
+- - - 
+
 ## 180702 - R1D1
 
 ### Today's Progress
