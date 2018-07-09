@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## 180709 - R1D4
+
+### Today's Progress
+
+Spent lunch refreshing my beginner Python abilities.
+
+### Thoughts
+
+Woo Python!
+
+### Links to work
+
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+## 180706 - R1D3
+
+### Today's Progress
+
+Continued work on friend's website (yaml, css, php).
+
 ## 180704 - R1D2
 
 ### Today's Progress
@@ -10,7 +30,15 @@ Continued work on friend's website (yaml, css, php).
 
 Excited to finish this website so I can get back into Python!
 
-- - - 
+## 180704 - R1D2
+
+### Today's Progress
+
+Continued work on friend's website (yaml, css, php).
+
+### Thoughts
+
+Excited to finish this website so I can get back into Python!
 
 ## 180702 - R1D1
 
