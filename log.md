@@ -4,7 +4,7 @@
 
 ### Today's Progress
 
-Spent lunch refreshing my beginner Python abilities.
+Spent lunch refreshing my beginner Python abilities. (ABS CH 1-3)
 
 ### Thoughts
 
